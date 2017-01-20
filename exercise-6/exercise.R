@@ -1,13 +1,13 @@
 # Exercise 6: Husky Football 2015 Season
 # Read in the Husky Football 2015 game data into a variable called `husky.games.2015`
-
+read.csv("data/huskies_2015.csv", stringsAsFactors = FALSE)
 
 
 # Create a vector of the teams that the Huskies played against during that season
 
 
-
 # Create a vector of the their final scores for the games
+
 # Call this variable `husky.scores`
 
 
@@ -39,4 +39,4 @@
 
 # Challenge!
 # What was the highest yardage game so far this season?
-# Hint: Read in the dataset titled `huskies_2016.csv` and save it as a variable
+# Hint: Read in the dataset titled `huskies_2016.csv` and save it as a variable 
